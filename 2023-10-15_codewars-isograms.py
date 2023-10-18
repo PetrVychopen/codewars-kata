@@ -25,4 +25,4 @@ def is_isogram(string):
         return True
     else:
         return False
-is_isogram("")
+is_isogram("AAdd")
